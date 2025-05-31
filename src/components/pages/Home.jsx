@@ -11,8 +11,8 @@ function Home(){
                 <p className='quote'>I make websites that (usually) Works.</p>
                 <div className="download-cv-btn-wrapper">
                   <a
-                    href="/Siddhesh Resume.pdf"
-                    download="Siddhesh Resume.pdf"
+                    href="/Siddhesh_Resume.pdf"
+                    download="Siddhesh_Resume.pdf"
                     className="download-cv-btn"
                   >
                     Download CV
